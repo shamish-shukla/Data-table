@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Data-table/static/css/main.126194a9.css",
+    "main.js": "/Data-table/static/js/main.77a5ef12.js",
+    "index.html": "/Data-table/index.html",
+    "main.126194a9.css.map": "/Data-table/static/css/main.126194a9.css.map",
+    "main.77a5ef12.js.map": "/Data-table/static/js/main.77a5ef12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.126194a9.css",
+    "static/js/main.77a5ef12.js"
+  ]
+}

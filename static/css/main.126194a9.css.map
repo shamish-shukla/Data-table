@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.126194a9.css","mappings":"AAAA,eACI,WACJ,CACA,SACI,UAAW,CACX,iBACJ","sources":["Usertable.css"],"sourcesContent":[".table-main h1{\r\n    color:green;\r\n}\r\ntable th{\r\n    color: blue;\r\n    margin-right: 20px;\r\n}\r\n"],"names":[],"sourceRoot":""}
